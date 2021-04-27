@@ -1,0 +1,5 @@
+file: web-client.py
+description_ru: Скрипт предназначен для подключения сервера со скриптом Analytics и Parking и других скриптов к клиентской части Trassir.
+description_en:
+categories:
+  - show

@@ -1,0 +1,12 @@
+file: health_monitoring-release.py
+description_ru: Данный скрипт предназначен для оповещения об изменениях состояния здоровья сервера.
+description_en:
+categories:
+  - tbot
+  - gpio
+  - neuro_analytics
+  - notification
+  - ftp
+  - sms
+  - email
+  - sound

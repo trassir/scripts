@@ -1,0 +1,5 @@
+file: screenshot_folder_changer.py
+description_ru: Скрипт изменяет папку скриншотов на серверах TrassirOS.
+description_en:
+categories:
+  - service

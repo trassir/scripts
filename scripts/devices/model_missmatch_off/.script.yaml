@@ -1,0 +1,5 @@
+file: model_missmatch_off.py
+description_ru: Отключает ошибку "Неправильная модель" в настройках IP-устройства.
+description_en:
+categories:
+  - devices

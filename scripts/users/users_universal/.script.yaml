@@ -1,0 +1,7 @@
+file: users_universals-release.py
+description_ru: Скрипт позволяет формировать отчеты по правам пользователей Trassir и изменять права выбранных пользователей.
+description_en:
+categories:
+  - users
+  - schedule
+  - report

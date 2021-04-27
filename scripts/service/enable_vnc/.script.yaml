@@ -1,0 +1,5 @@
+file: enable_vnc.py
+description_ru: Включает VNC на TrassirOS
+description_en:
+categories:
+  - service

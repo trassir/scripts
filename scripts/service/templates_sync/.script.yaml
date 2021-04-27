@@ -1,0 +1,5 @@
+file: templates_sync.py
+description_ru: Скрипт предназначен для синхронизации шаблонов с удаленного сервера.
+description_en:
+categories:
+  - service

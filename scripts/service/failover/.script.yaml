@@ -1,0 +1,6 @@
+file: failover-release.py
+description_ru: Скрипт позволяет не потерять архив с камер при отключении одного из серверов.
+description_en:
+categories:
+  - devices
+  - backup

@@ -1,0 +1,9 @@
+file: shot_saver_universal-release.py
+description_ru: Скрипт предназначен для автоматизированного сохранения скриншотов.
+description_en:
+categories:
+  - ftp
+  - email
+  - schedule
+  - channels
+  - screenshots

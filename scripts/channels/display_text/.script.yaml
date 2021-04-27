@@ -1,0 +1,6 @@
+file: display_text-release.py
+description_ru: Отображает произвольный текст на канале.
+description_en:
+categories:
+  - display_text
+  - channels

@@ -1,0 +1,6 @@
+file: screenshot_api-release.py
+description_ru: Скрипт реализует SDK метод получения скриншота с фигурами.
+description_en:
+categories:
+  - screenshots
+  - api

@@ -1,0 +1,7 @@
+file: association_orion-release.py
+description_ru: Скрипт позволяет ассоциировать один или более каналов для датчика Orion  с последующим выводом каналов на тревожный монитор при сработке на событие.
+description_en:
+categories:
+  - show
+  - pacs
+  - orion

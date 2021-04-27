@@ -1,0 +1,6 @@
+file: check_pos_dump.py
+description_ru: Скрипт для перемещения файла 'pos-rkeeper.ini' с настройками на сервер Trassir OS.
+description_en:
+categories:
+  - pos
+  - service

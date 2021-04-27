@@ -1,0 +1,7 @@
+file: web_people_counter-release.py
+description_ru: Скрипт осуществляет онлайн мониторинг количества людей.
+description_en:
+categories:
+  - notification
+  - web
+  - neuro_analytics

@@ -1,0 +1,5 @@
+file: license_free-release.py
+description_ru: Подсчет свободных лицензий на сервере.
+description_en:
+categories:
+  - service

@@ -1,0 +1,5 @@
+file: show_module_in_browser.py
+description_ru: Скрипт реализует возможность отображения модулей в минибраузере.
+description_en:
+categories:
+  - service

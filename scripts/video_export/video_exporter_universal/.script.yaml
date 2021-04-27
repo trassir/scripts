@@ -1,0 +1,9 @@
+file: video_exporter_universal-release.py
+description_ru: Скрипт предназначен для автоматизированного экспорта видео.
+description_en:
+categories:
+  - notification
+  - archive
+  - schedule
+  - ftp
+  - archive

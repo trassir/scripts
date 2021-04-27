@@ -1,0 +1,132 @@
+show:
+  title_ru: Отображение канала
+  title_en: Show channel
+  icon: fas,desktop
+service:
+  title_ru: Сервисные
+  title_en: Service
+  icon: fas,cogs
+screenshots:
+  title_ru: Скриншоты
+  title_en: Screenshots
+  icon: far,image
+archive:
+  title_ru: Архив
+  title_en: Archive
+  icon: fas,video
+notification:
+  title_ru: Уведомления
+  title_en: Notifications
+  icon: far,bell
+telegram:
+  hidden: true
+  icon: fab,telegram-plane
+email:
+  hidden: true
+  icon: far,envelope
+ftp:
+  hidden: true
+  icon: fas,file-export
+gpio:
+  hidden: true
+  icon: as,toggle-off
+reports:
+  title_ru: Отчеты
+  title_en: Reports
+  icon: fas,clipboard-list
+display_text:
+  title_ru: Отображение текста
+  title_en: Script subtitles
+  icon: fas,font
+lpr:
+  hidden: true
+  icon: fas,car
+fr:
+  hidden: true
+  icon: far,grin-beam
+web:
+  icon: fas,globe
+license:
+  icon: fas,key
+api:
+  icon: fas,code
+pacs:
+  title_ru: Операции со СКУД
+  title_en: PACS
+  icon:
+aruco:
+  title_ru: ArUco маркеры
+  title_en: ArUco makrers
+  icon:
+simt:
+  title_ru: СИМТ
+  title_en: SIMT
+  icon:
+sms:
+  title_ru: СМС
+  title_en: SMS
+  icon:
+orion:
+  title_ru: Орион
+  title_en: Orion
+  icon:
+gate:
+  title_ru: Gate
+  title_en: Gate
+  icon:
+sigur:
+  title_ru: Сигур
+  title_en: Sigur
+  icon:
+neuro_analytics:
+  title_ru: Нейро аналитика
+  title_en: Neuro Analitycs
+  icon:
+tbot:
+  title_ru: Telegram Bot
+  title_en: Telegram Bot
+  icon:
+sound:
+  title_ru: Звук
+  title_en: Sound
+  icon:
+channels:
+  title_ru: Каналы
+  title_en: Channels
+  icon:
+events:
+  title_ru: События
+  title_en: Events
+  icon:
+schedule:
+  title_ru: Расписание
+  title_en: Schedule
+  icon:
+post_request:
+  title_ru: POST запрос
+  title_en: POST request
+  icon:
+devices:
+  title_ru: IP устройства
+  title_en: IP devices
+  icon:
+backup:
+  title_ru: Резервирование
+  title_en: Backup
+  icon:
+persons:
+  title_ru: Персоны
+  title_en: Persons
+  icon:
+ptz:
+  title_ru: ПТЗ
+  title_en: PTZ
+  icon:
+users:
+  title_ru: Пользователи
+  title_rn: Users
+  icon:
+snmp:
+  title_ru: SNMP
+  title_en: SNMP
+  icon:

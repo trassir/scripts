@@ -1,0 +1,20 @@
+file: alarm_monitor-release.py
+description_ru: Данный скрипт является универсальным инструментом для информирования пользователя о наступлении событий, которые детектирует Trassir.
+description_en:
+categories:
+  - show
+  - screenshots
+  - notification
+  - telegram
+  - email
+  - ftp
+  - sms
+  - gpio
+  - display_text
+  - fr
+  - pacs
+  - orion
+  - sigur
+  - gate
+  - voron
+  - neuro_analytics

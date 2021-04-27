@@ -1,0 +1,8 @@
+file: auto_backup_universal-release.py
+description_ru: Данный скрипт предназначен для автоматического создания бэкапа настроек сервера(файла лицензии), клиента.
+description_en:
+categories:
+  - notification
+  - ftp
+  - email
+  - schedule

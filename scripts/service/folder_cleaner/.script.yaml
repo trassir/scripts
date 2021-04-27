@@ -1,0 +1,5 @@
+file: folder_cleaner-release.py
+description_ru: Автоматическая очистка папки.
+description_en:
+categories:
+  - service

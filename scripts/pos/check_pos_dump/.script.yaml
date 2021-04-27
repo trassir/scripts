@@ -1,0 +1,5 @@
+file: check_pos_dump.py
+description_ru: Скрипт для проверки подключения устройств к Trassir по системе ActivePOS. Включает дублирование POS_Dump в папку скриншотов.
+description_en:
+categories:
+  - pos

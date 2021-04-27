@@ -1,0 +1,5 @@
+file: utc_offset.py
+description_ru: Скрипт для смены часового пояса на камерах подключенных к серверам Trassir OS.
+description_en:
+categories:
+  - devices

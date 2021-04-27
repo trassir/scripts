@@ -1,0 +1,6 @@
+file: device_auto_reboot-release.py
+description_ru: Перезагрузка камер по расписанию либо потере сигнала.
+description_en:
+categories:
+  - schedule
+  - devices

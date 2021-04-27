@@ -1,0 +1,7 @@
+file: trassir_ptz_automation-release.py
+description_ru: Скрипт позволяет автоматизировать работу оператора с поворотной камерой.
+description_en:
+categories:
+  - channels
+  - ptz
+  - schedule

@@ -1,0 +1,10 @@
+class Report(object):
+    username = "Username"
+    server_name = "Server name"
+    channel_name = "Channel name"
+    view = "View"
+    archive = "Archive"
+    sound = "Sound"
+    ptz = "PTZ"
+    modify = "Modify"
+    setup = "Setup"

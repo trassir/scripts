@@ -1,0 +1,7 @@
+file: ip_device_info-release.py
+description_ru: Вывод информации по IP устройствам.
+description_en:
+categories:
+  - devices
+  - channels
+  - reports

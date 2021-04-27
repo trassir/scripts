@@ -1,0 +1,12 @@
+file: delayed_events-release.py
+description_ru: Cкрипт предназначен для уведомления пользователей о продолжительных событиях, например, непрерывном движении в течении нескольких секунд.
+description_en:
+categories:
+  - tbot
+  - gpio
+  - neuro_analytics
+  - notification
+  - ftp
+  - sms
+  - email
+  - sound

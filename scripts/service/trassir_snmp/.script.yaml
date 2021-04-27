@@ -1,0 +1,5 @@
+file: trassir_snmp.py
+description_ru: Мониторинг основных индикаторов здоровья через SNMP.
+description_en:
+categories:
+  - snmp

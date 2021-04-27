@@ -1,0 +1,5 @@
+file: nvr_system_settings.py
+description_ru: Выключение опроса монитора при старте системы Trassir OS.
+description_en:
+categories:
+  - service

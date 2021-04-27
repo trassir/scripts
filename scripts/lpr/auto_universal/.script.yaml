@@ -1,0 +1,14 @@
+file: auto_universal-release.py
+description_ru: Скрипт предназначен для реагирования на события распознавания номера, а также добавляет обход ошибок при распознавании номера для встроенных списков и списков в текстовых файлах.
+description_en:
+categories:
+  - lpr
+  - show
+  - notification
+  - ftp
+  - telegram
+  - email
+  - pacs
+  - sigur
+  - orion
+  - gpio

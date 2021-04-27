@@ -1,0 +1,7 @@
+file: archive-release.py
+description_ru: Проверка архива за последние N дней/часов.
+description_en:
+categories:
+  - notification
+  - email
+  - archive

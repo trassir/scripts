@@ -1,0 +1,5 @@
+file: format_hdd.py
+description_ru: Форматирование архивных HDD на серверах Trassir.
+description_en:
+categories:
+  - archive

@@ -1,0 +1,5 @@
+file: core_temp.py
+description_ru: Собирает информацию о температуре сокета процессора. Скрипт предназначен только для серверов под управлением Trassir OSS.
+description_en:
+categories:
+  - service

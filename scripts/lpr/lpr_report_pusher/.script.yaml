@@ -1,0 +1,6 @@
+file: lpr_events_pusher-release.py
+description_ru: Скрипт запоминает последнее событие от AutoTrassir и отправляет полученные данные POST запросом на указанный в настройках скрипта url адрес.
+description_en:
+categories:
+  - lpr
+  - post_request

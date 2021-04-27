@@ -1,0 +1,102 @@
+.login-max-width {
+    max-width: 900px;
+    margin: auto;
+}
+
+.login form {
+    max-width: 550px;
+    margin: auto;
+}
+
+.login .mdl-textfield {
+    width: 550px;
+}
+
+.error {
+    color: #d50000;
+}
+
+.password-change {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    display: none;
+    color: #000;
+}
+
+.is-open {
+    display: flex;
+}
+
+.password-change-dialog {
+    max-width: 350px;
+    width: 95%;
+    min-height: 240px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin: auto;
+    padding: 40px 45px;
+}
+
+.password-change-header {
+    margin: 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 42px;
+    color: #000;
+    display: flex;
+    justify-content: space-between;
+}
+
+.password-change-title {
+    margin: 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 42px;
+}
+
+.close-password-change {
+    font-size: 36px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.password-change-body {
+    margin-bottom: 20px;
+}
+
+.password-btn {
+    background: transparent;
+    cursor: pointer;
+}
+
+@media (max-width: 900px) {
+    .mdl-list__item--three-line {
+        flex-wrap: wrap;
+    }
+
+    img.material-icons.child-icon {
+        display: none;
+    }
+
+    .mdl-list__item .mdl-list__item-secondary-content {
+        margin-left: 0;
+        margin-top: -10px;
+        margin-bottom: 10px;
+    }
+
+    .mdl-switch {
+        margin-top: 25px;
+    }
+}
+
+.mdl-mini-footer__right-section,
+.mdl-mini-footer__left-section {
+    padding: 0 10px;
+}

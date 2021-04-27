@@ -1,0 +1,6 @@
+file: remove_db_on_tos.py
+description_ru: Удаляет Базу Данных на серверах Trassir OS и создает новую.
+description_en:
+categories:
+  - service
+  - db

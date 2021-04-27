@@ -1,0 +1,6 @@
+file: create_ip_from_csv-release.py
+description_ru: Добавление и удаление ip-устройств из списка в формате .csv
+description_en:
+categories:
+  - devices
+  - channels

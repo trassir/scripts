@@ -1,0 +1,6 @@
+file: hls_api-release.py
+description_ru: Скрипт позволяет автоматизировать получение ссылки на видеопоток в формате HLS.
+description_en:
+categories:
+  - api
+  - archive

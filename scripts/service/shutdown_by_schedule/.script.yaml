@@ -1,0 +1,6 @@
+file: shutdown_by_schedule-release.py
+description_ru: Данный скрипт предназначен для перезагрузки или выключения сервера автоматически по расписанию.
+description_en:
+categories:
+  - service
+  - schedule

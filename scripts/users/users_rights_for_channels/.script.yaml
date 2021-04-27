@@ -1,0 +1,7 @@
+file: users_rights_for_channels-release.py
+description_ru: Скрипт формирует подробный отчет по правам локальных пользователей для каналов. Собирает информацию по текущему серверу/клиенту и серверов подключенных по сети.
+description_en:
+categories:
+  - users
+  - report
+  - channels

@@ -1,0 +1,7 @@
+file: carousel-release.py
+description_ru: Циклический просмотр выбранных каналов или всех с возможностью остановить цикл просмотра и выводом изображения на тревожный монитор по событиям.
+description_en:
+categories:
+  - show
+  - channels
+  - events
